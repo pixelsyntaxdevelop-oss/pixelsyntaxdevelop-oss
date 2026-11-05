@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I'm the founder of **[Pixel Syntax](https://github.com/Pixel-syntax)**, a software studio in **Dubai, UAE**
+- 👋 Hi, I'm **Ahmed Raza**, founder of **[Pixel Syntax](https://github.com/Pixel-syntax)**, a software studio in **Dubai, UAE**
 - 🔭 I'm currently working on an **AI WhatsApp CRM** and a **delivery & fleet management ERP**
 - 🤖 I'm currently building with **AI agents, Gemini AI and automation workflows**
 - 🌱 I'm currently learning **Cloudflare Workers, edge computing and 3D/animation pipelines**
@@ -52,16 +52,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pixelsyntaxdevelop-oss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070a&title_color=22D3EE&icon_color=1E90FF&text_color=e0e0e0&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsyntaxdevelop-oss&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070a&title_color=22D3EE&text_color=e0e0e0&langs_count=8" alt="Top languages"/>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
+</p>
+
+<p align="center">
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language"/>
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pixelsyntaxdevelop-oss&theme=tokyonight&hide_border=true&background=05070A&ring=1E90FF&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=e0e0e0&dates=a1a1aa" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pixelsyntaxdevelop-oss&bg_color=05070a&color=22d3ee&line=1e90ff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%"/>
 </p>
 
 ## 🐍 Contribution Snake
