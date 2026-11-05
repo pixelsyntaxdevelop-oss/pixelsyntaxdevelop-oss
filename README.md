@@ -57,7 +57,6 @@
 
 <p align="center">
 <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats"/>
-<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language"/>
 <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
 </p>
 
